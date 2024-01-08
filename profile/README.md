@@ -8,4 +8,4 @@ Empowering productivity, seamless integration, and discovery of Large Language M
 
 | Project | Description |
 | :--- | :--- |
-| [**LLMGuard**](https://github.com/laiyer-ai/llm-guard) | X |
+| [**llm-guard**](https://github.com/laiyer-ai/llm-guard) | It offers sanitization, detection of harmful language, prevention of data leakage, and resistance against prompt injection attacks, LLM-Guard ensures that your interactions with LLMs remain safe and secure. |
